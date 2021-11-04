@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">App007</string>
+    <string name="create_account">Create Account</string>
+    <string name="email">Email address</string>
+    <string name="password">Enter password</string>
+    <string name="confirm_password">Enter password again</string>
+    <string name="or">Or</string>
+    <string name="sign_in">SignIn</string>
+    <string name="you_are_signed_in">You are signed in here</string>
+    <string name="sign_out">SignOut</string>
+</resources>
